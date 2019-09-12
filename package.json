@@ -1,0 +1,15 @@
+{
+  "name": "demo-factory.ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc demo.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "factory.ts": "^0.5.0",
+    "typescript": "3.4.1"
+  }
+}
